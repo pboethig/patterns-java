@@ -1,5 +1,5 @@
 ### Memento
-Um es einfach zu machen. Memento implementiert die Undo-Redu Funktion, wie man sie aus den besseren Clients kennt.
+Um es einfach zu machen. Memento implementiert die Undo-Redo Funktion, wie man sie aus den besseren Clients kennt.
 
 - Editor ist das Objekt, das State erzeugt
 - EditorState ist der State des Editors :-)
